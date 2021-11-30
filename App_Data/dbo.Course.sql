@@ -1,0 +1,19 @@
+﻿CREATE TABLE [dbo].[Course](
+	[course_id] [int] NOT NULL,
+	[course_name] [text] NOT NULL,
+	[user_id] [int] NULL,
+ CONSTRAINT [PK_Course] PRIMARY KEY CLUSTERED 
+(
+	[course_id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Course]  WITH CHECK ADD  CONSTRAINT [FK_Course_User] FOREIGN KEY([user_id])
+REFERENCES [dbo].[User] ([user_id])
+ON UPDATE CASCADE
+ON DELETE SET NULL
+GO
+
+ALTER TABLE [dbo].[Course] CHECK CONSTRAINT [FK_Course_User]
+GO
