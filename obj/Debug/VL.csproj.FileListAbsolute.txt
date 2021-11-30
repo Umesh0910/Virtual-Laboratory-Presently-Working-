@@ -1,0 +1,117 @@
+F:\project\VL\VL\bin\VL.dll.config
+F:\project\VL\VL\bin\VL.dll
+F:\project\VL\VL\bin\VL.pdb
+F:\project\VL\VL\bin\roslyn\csc.exe
+F:\project\VL\VL\bin\roslyn\csc.exe.config
+F:\project\VL\VL\bin\roslyn\csc.rsp
+F:\project\VL\VL\bin\roslyn\csi.exe
+F:\project\VL\VL\bin\roslyn\csi.exe.config
+F:\project\VL\VL\bin\roslyn\csi.rsp
+F:\project\VL\VL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\project\VL\VL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\project\VL\VL\bin\roslyn\Microsoft.Managed.Core.targets
+F:\project\VL\VL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\project\VL\VL\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\project\VL\VL\bin\roslyn\System.AppContext.dll
+F:\project\VL\VL\bin\roslyn\System.Collections.Immutable.dll
+F:\project\VL\VL\bin\roslyn\System.Console.dll
+F:\project\VL\VL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\project\VL\VL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\project\VL\VL\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\project\VL\VL\bin\roslyn\System.Globalization.Calendars.dll
+F:\project\VL\VL\bin\roslyn\System.IO.Compression.dll
+F:\project\VL\VL\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\project\VL\VL\bin\roslyn\System.IO.FileSystem.dll
+F:\project\VL\VL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\project\VL\VL\bin\roslyn\System.Net.Http.dll
+F:\project\VL\VL\bin\roslyn\System.Net.Sockets.dll
+F:\project\VL\VL\bin\roslyn\System.Reflection.Metadata.dll
+F:\project\VL\VL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\project\VL\VL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\project\VL\VL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\project\VL\VL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\project\VL\VL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\project\VL\VL\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\project\VL\VL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\project\VL\VL\bin\roslyn\System.ValueTuple.dll
+F:\project\VL\VL\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\project\VL\VL\bin\roslyn\System.Xml.XmlDocument.dll
+F:\project\VL\VL\bin\roslyn\System.Xml.XPath.dll
+F:\project\VL\VL\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\project\VL\VL\bin\roslyn\vbc.exe
+F:\project\VL\VL\bin\roslyn\vbc.exe.config
+F:\project\VL\VL\bin\roslyn\vbc.rsp
+F:\project\VL\VL\bin\roslyn\VBCSCompiler.exe
+F:\project\VL\VL\bin\roslyn\VBCSCompiler.exe.config
+F:\project\VL\VL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\project\VL\VL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\project\VL\VL\obj\Debug\VL.csproj.AssemblyReference.cache
+F:\project\VL\VL\obj\Debug\VL.csproj.CoreCompileInputs.cache
+F:\project\VL\VL\obj\Debug\VL.csproj.CopyComplete
+F:\project\VL\VL\obj\Debug\VL.dll
+F:\project\VL\VL\obj\Debug\VL.pdb
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\obj\Debug\VL.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\obj\Debug\VL.pdb
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\VL.dll.config
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\VL.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\VL.pdb
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\csc.exe
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\csc.exe.config
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\csc.rsp
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\csi.exe
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\csi.exe.config
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\csi.rsp
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.AppContext.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Console.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.IO.Compression.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Net.Http.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.ValueTuple.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\vbc.exe
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\vbc.exe.config
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\vbc.rsp
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\VBCSCompiler.exe
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\obj\Debug\VL.csproj.AssemblyReference.cache
+C:\Users\unika\Desktop\Projects Data\VL PROJECT\VL11_11\VL\obj\Debug\VL.csproj.CoreCompileInputs.cache
